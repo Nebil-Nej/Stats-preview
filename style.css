@@ -75,7 +75,7 @@ body {
 .grid {
   display: flex;
   justify-content: space-between;
-  /* margin-top: 100px; */
+  margin-top: 75px;
 }
 
 .grid h1 {
